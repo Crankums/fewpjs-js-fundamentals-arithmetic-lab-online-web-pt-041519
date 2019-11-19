@@ -6,4 +6,4 @@ const multiply = num1*num2
 
 const random = Math.random()
 
-const mod = 8%2
+const mod = 7%2
